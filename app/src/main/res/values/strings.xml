@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyShopingAPP</string>
+    <string name="todo">TODO</string>
+    <string name="don_t_have_an_account_sign_up">don_t_have_an_account_sign_up</string>
+</resources>
